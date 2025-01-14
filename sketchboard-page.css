@@ -1,0 +1,26 @@
+body {
+    font-family: 'Times New Roman', sans-serif;
+    background-color: #eee8b2;
+    color: #203B37;
+    margin: 0;
+    padding: 0;
+}
+
+.heading {
+    text-align: center;
+    margin: 20px 0;
+}
+
+header {
+    background-color: #203B37;
+    padding: 20px;
+    text-align: center;
+}
+
+.logo img {
+    width: 100px;
+}
+
+.sketch {
+    padding-left: 200px;
+}
