@@ -1,0 +1,56 @@
+body {
+    font-family: 'Times New Roman', sans-serif;
+    background-color: #eee8b2;
+    color: #203B37;
+    margin: 0;
+    padding: 0;
+}
+
+.heading {
+    text-align: center;
+    margin: 20px 0;
+}
+
+header {
+    background-color: #203B37;
+    padding: 20px;
+    text-align: center;
+}
+
+.logo img {
+    width: 100px;
+}
+
+.ourinspiration-text {
+    align-items: left;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+
+.ourinspiration-text2 {
+    align-items: left;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-left: 9px;
+    padding-right: 9px;
+
+}
+
+.colorboard-image {
+    padding-left: 130px;
+}
+
+.moodboard-img {
+    padding-left: 70px;
+    padding-right: 70px;
+
+}
+
+.dress-img {
+    padding-left: 70px;
+    padding-right: 70px;
+
+}
